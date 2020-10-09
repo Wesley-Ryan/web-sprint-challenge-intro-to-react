@@ -7,11 +7,11 @@ import styled from 'styled-components';
 
 const Banner = styled.div`
   width:100%;
-  height:350px;
+  height:550px;
   display:flex;
   align-items: center;
   border: 1px solid white;
-  background:no-repeat center center fixed; 
+  background:no-repeatfixed; 
   background-size: cover;
   background-image: url(${RMBanner});
   font-family: 'Montserrat', sans-serif;
